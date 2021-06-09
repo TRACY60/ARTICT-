@@ -1,0 +1,10 @@
+body{background-color: burlywood}
+body{background-image: url("images/pic 5.jpeg")}
+
+h1,h2,h3{font-family: Chilanka}
+li{font-family: Chilanka;
+    text-decoration-line: blink underline;
+box-shadow: 30px 20px 40px darksalmon}
+textarea{background-color: #9fcdff}
+button{box-shadow: #abdde5}
+input{background-color: white}
